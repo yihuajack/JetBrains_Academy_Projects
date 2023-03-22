@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: error_message
+- text: 1day
+- text: red-color
+- text: myName
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8365#comment
+status: Solved
+record: -1
+local_check: false

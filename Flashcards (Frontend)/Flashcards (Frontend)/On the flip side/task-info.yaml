@@ -1,0 +1,86 @@
+type: edu
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+        <h1>What is the capital of...</h1>
+        <div class="cards">
+            <div class="card">
+                <div class="question"><p>Mexico</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Papua New Guinea</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Iceland</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>South Korea</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Sweden</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Georgia</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Honduras</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Tunisia</p></div>
+            </div>
+            <div class="card">
+                <div class="question"><p>Austria</p></div>
+            </div>
+        </div>
+    </body>
+    </html>
+  learner_created: false
+- name: src/style.css
+  visible: true
+  text: |-
+    body {
+        background-image: url("https://stepik.org/media/attachments/lesson/374893/world.png");
+        background-size: cover;
+        justify-content: center;
+        align-items: center;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        border-radius: 20px;
+    }
+
+    .card {
+        flex-basis: 4em;
+        height: 50px;
+        width: 50px;
+        background-color: bisque;
+        position: relative;
+    }
+
+    .question {
+        color: coral;
+        text-align: center;
+        font-family: 'Montserrat', sans-serif;
+    }
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/115/stages/627/implement#comment
+status: Unchecked
+record: -1

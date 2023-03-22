@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: NaN === NaN
+- text: Infinity == Infinity
+- text: Infinity == -Infinity
+- text: NaN == NaN
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24020#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 13 Jan 2023 08:33:32 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false

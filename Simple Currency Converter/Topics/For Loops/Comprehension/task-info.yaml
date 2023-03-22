@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: because it runs an infinite number of times
+- text: because it consumes an infinite amount of energy
+- text: because it runs endlessly long
+- text: because it runs endlessly fast
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9122#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 13 Jan 2023 09:40:24 UTC"
+record: -1
+selected_options:
+- 0
+- 2
+local_check: false

@@ -1,0 +1,20 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: NaN
+- text: 0
+- text: undefined
+- text: 1
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16148#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 12 Jan 2023 10:13:15 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false

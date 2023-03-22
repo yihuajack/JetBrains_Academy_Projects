@@ -1,0 +1,35 @@
+body {
+    background-image: url("https://stepik.org/media/attachments/lesson/374893/world.png");
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.cards {
+    height: 600px;
+    width: 600px;
+    display: flex;
+    flex-flow: wrap row;
+    align-content: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.card {
+    height: 150px;
+    width: 150px;
+    background-color: bisque;
+    position: relative;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+.question {
+    color: coral;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}

@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Define different potential values to one variable
+- text: 'Create several if…else conditions to execute a block of code '
+- text: Check the value of a variable/statement and redefine it
+- text: Execute a block of code if the value of variable/statement matches
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10690#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 12 Jan 2023 09:02:09 UTC"
+record: -1
+selected_options:
+- 3
+custom_name: What is a switch?
+local_check: false

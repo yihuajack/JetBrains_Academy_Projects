@@ -1,0 +1,21 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: "true"
+- text: less
+- text: "false"
+- text: greater
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8581#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 10 Jan 2023 10:51:18 UTC"
+record: -1
+selected_options:
+- 0
+- 2
+local_check: false

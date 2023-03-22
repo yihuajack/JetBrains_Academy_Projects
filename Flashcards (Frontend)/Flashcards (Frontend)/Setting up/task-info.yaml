@@ -1,0 +1,25 @@
+type: edu
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Title</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+feedback_link: https://hyperskill.org/projects/115/stages/625/implement#comment
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Wed, 15 Mar 2023 05:27:02 UTC"
+record: 2

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: a
+- text: b
+- text: c
+- text: d
+- text: e
+- text: There's no correct display of this code
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8163#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Tue, 10 Jan 2023 01:43:36 UTC"
+record: -1
+selected_options:
+- 4
+local_check: false

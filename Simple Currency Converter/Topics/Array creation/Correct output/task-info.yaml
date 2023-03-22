@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: undefined 1
+- text: undefined
+- text: 1 undefined
+- text: undefined undefined
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16359#comment
+status: Solved
+record: -1
+local_check: false

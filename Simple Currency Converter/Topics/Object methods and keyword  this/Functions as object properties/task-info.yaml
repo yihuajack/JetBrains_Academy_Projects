@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: A
+- text: B
+- text: C
+- text: D
+files:
+- name: main.js
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10717#comment
+status: Failed
+feedback:
+  message: 答案选择将在下一次乱序。
+  time: "Fri, 13 Jan 2023 09:10:00 UTC"
+record: -1
+local_check: false
